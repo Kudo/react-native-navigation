@@ -56,7 +56,7 @@ configurations.all {
 
 configurations.all {
     resolutionStrategy {
-        force 'org.webkit:android-jsc:r236355'
+        force 'org.webkit:android-jsc:r241213'
     }
 }
 
